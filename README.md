@@ -1,3 +1,5 @@
+[LIVE DEMO](https://egg-production-tracker-v8w1.onrender.com/)
+
 # Kiambu Poultry Farm - Egg Production Tracker (Full-Stack)
 
 A lightweight, full-stack web application built for poultry farmers and farm managers in Kenya (such as Kiambu's egg-producing peri-urban belt). It replaces ad-hoc WhatsApp self-messages and manual Saturday calculations with an interactive browser dashboard powered by a Flask REST API.
